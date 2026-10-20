@@ -1,0 +1,7 @@
+[2026-10-20T20:16:33Z] === AST ITERATION 1 START | repo=klen/aioauth-client sha=6b4c3d63 ===
+[2026-10-20T20:16:33Z] [iter=1] PHASE START: ast repo=klen/aioauth-client sha=6b4c3d63
+[2026-10-20T20:16:33Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T20:16:41Z] [iter=1] AST chunks built count=1 triples=79463
+[2026-10-20T20:16:41Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/6b4c3d6383837c1c704a01a4003232d9d3ef19bb/.complete
+[2026-10-20T20:16:41Z] [iter=1] PHASE END: ast elapsed_s=9 elapsed_min=0.1
+[2026-10-20T20:16:41Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
