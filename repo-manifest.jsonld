@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/aioauth-client/commit/6b4c3d6383837c1c704a01a4003232d9d3ef19bb",
       "git:hexsha": "6b4c3d6383837c1c704a01a4003232d9d3ef19bb",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.30.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.30.1",
+      "repolex:parsedAt": "2026-10-20T20:17:55.761429+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/aioauth-client/commit/01e628a8e8f7b5bf67efaab202f0a76f1ce81a4a",
